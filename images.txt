@@ -1,2 +1,3 @@
-sig-storage/csi-node-driver-registrar:v2.8.0
+openebs/lvm-driver:1.5.0"
+
 
